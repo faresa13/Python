@@ -37,13 +37,13 @@ python-studies/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/python-studies.git
+git clone https://github.com/faresa13/Python.git
 ```
 
 2. Entre na pasta do projeto:
 
 ```bash
-cd python-studies
+cd Python
 ```
 
 3. Execute um arquivo Python:
